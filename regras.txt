@@ -1,0 +1,11 @@
+Implementar um sistema bancario usando python. Para essa primeira versão o código deve Implementar apenas 3 operações: deposito, saque e extrato
+
+operação de deposito:
+o deposito usa apenas um usuario, não se deve preocupar com a identificação do usuario.
+só se pode depositar valores inteiros e positivos. Todo deposito deve ser armazenado.
+
+saque:
+O sistema deve permitir realizar apenas 3 saques diarios com limite máximo de 500 reais. 
+caso o usuario não tenha saque em conta o código deve exibir uma mensagem informando que não será positivos sacar  
+operação de extrato:
+O sistema deve listar todos os depositos e saques realizados na conta, no fim da listagem deve estar listado o  
